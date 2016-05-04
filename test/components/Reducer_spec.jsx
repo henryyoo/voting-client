@@ -126,12 +126,5 @@ describe('reducer', ()=> {
         pair: ['Sunshine', 'Slumdog Millionaire']
       }
     }));
-
-
   })
-
-
-
-
-
 });
